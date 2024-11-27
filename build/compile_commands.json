@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Administrator/Desktop/正在进行的项目/01_GLFW_WINDOW/build",
+  "command": "\"C:\\PROGRA~1\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe\" -isystem C:/Users/Administrator/Desktop/正在进行的项目/01_GLFW_WINDOW/thirdParty/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -o CMakeFiles\\openglStudy.dir\\main.cpp.obj -c C:\\Users\\Administrator\\Desktop\\正在进行的项目\\01_GLFW_WINDOW\\main.cpp",
+  "file": "C:\\Users\\Administrator\\Desktop\\正在进行的项目\\01_GLFW_WINDOW\\main.cpp",
+  "output": "CMakeFiles\\openglStudy.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Desktop/正在进行的项目/01_GLFW_WINDOW/build",
+  "command": "\"C:\\PROGRA~1\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe\" -isystem C:/Users/Administrator/Desktop/正在进行的项目/01_GLFW_WINDOW/thirdParty/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\openglStudy.dir\\glad.c.obj -c C:\\Users\\Administrator\\Desktop\\正在进行的项目\\01_GLFW_WINDOW\\glad.c",
+  "file": "C:\\Users\\Administrator\\Desktop\\正在进行的项目\\01_GLFW_WINDOW\\glad.c",
+  "output": "CMakeFiles\\openglStudy.dir\\glad.c.obj"
+}
+]
